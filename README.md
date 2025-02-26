@@ -8,7 +8,7 @@ This Repo has
 5. Get user data from the database and export in Csv file (/export API).
 6. Multithreading to process the data in parallel.
 7. Batch processing to process the data in batches.
-8. 
+
 
 # How to start the application
 
